@@ -1,0 +1,2 @@
+# ftpconn
+sync to cpanel
