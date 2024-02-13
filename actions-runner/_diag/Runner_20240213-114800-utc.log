@@ -1,0 +1,132 @@
+[2024-02-13 11:48:00Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'Credentials': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'Runner': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.runner'
+[2024-02-13 11:48:00Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-02-13 11:48:00Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2024-02-13 11:48:00Z INFO Listener] Version: 2.313.0
+[2024-02-13 11:48:00Z INFO Listener] Commit: d502c4623e5cd140e949f1e644ffe03762bd4151
+[2024-02-13 11:48:00Z INFO Listener] Culture: en-US
+[2024-02-13 11:48:00Z INFO Listener] UI Culture: en-US
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO Listener] Validating directory permissions for: 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO CommandLineParser] Parse
+[2024-02-13 11:48:00Z INFO CommandLineParser] Parsing 1 args
+[2024-02-13 11:48:00Z INFO CommandLineParser] parsing argument
+[2024-02-13 11:48:00Z INFO CommandLineParser] HasArgs: False
+[2024-02-13 11:48:00Z INFO CommandLineParser] Adding Command: run
+[2024-02-13 11:48:00Z INFO Listener] Arguments parsed
+[2024-02-13 11:48:00Z INFO Runner] ExecuteCommand
+[2024-02-13 11:48:00Z INFO ConfigurationStore] currentAssemblyLocation: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin\Runner.Listener.dll
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] binPath: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] RootFolder: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'Runner': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.runner'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] ConfigFilePath: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.runner
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'Credentials': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] CredFilePath: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_migrated'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] MigratedCredFilePath: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_migrated
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:00Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:00Z INFO HostContext] Well known config file 'Service': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.service'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] ServiceConfigFilePath: C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.service
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'help': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'version': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'check': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Command 'configure': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Command 'remove': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-02-13 11:48:00Z INFO ConfigurationManager] LoadSettings
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsConfigured()
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-13 11:48:00Z INFO ConfigurationManager] Is configured: True
+[2024-02-13 11:48:00Z INFO ConfigurationStore] Read setting file: 308 chars
+[2024-02-13 11:48:00Z INFO ConfigurationManager] Settings Loaded
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsServiceConfigured: True
+[2024-02-13 11:48:00Z INFO CommandSettings] Command 'run': 'True'
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsConfigured()
+[2024-02-13 11:48:00Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-13 11:48:00Z INFO ConfigurationManager] Is configured: True
+[2024-02-13 11:48:00Z INFO Runner] Try determine runner startup type base on console redirects.
+[2024-02-13 11:48:00Z INFO Runner] Set runner startup type - Manual
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-13 11:48:00Z INFO CommandSettings] Flag 'once': 'False'
+[2024-02-13 11:48:01Z INFO Runner] RunAsync
+[2024-02-13 11:48:01Z INFO ConfigurationManager] LoadSettings
+[2024-02-13 11:48:01Z INFO ConfigurationStore] IsConfigured()
+[2024-02-13 11:48:01Z INFO ConfigurationStore] IsConfigured: True
+[2024-02-13 11:48:01Z INFO ConfigurationManager] Is configured: True
+[2024-02-13 11:48:01Z INFO ConfigurationManager] Settings Loaded
+[2024-02-13 11:48:01Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-FUGQNF4",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/9V5HVtrmX8Xo2LNSco3DkkHQoh65qF8qvyLIGk7Nd2UugpD1fN/",
+  "GitHubUrl": "https://github.com/pratyush-6/ftpconn",
+  "WorkFolder": "_work"
+}
+[2024-02-13 11:48:01Z INFO MessageListener] Loading Credentials
+[2024-02-13 11:48:01Z INFO ConfigurationStore] HasCredentials()
+[2024-02-13 11:48:01Z INFO ConfigurationStore] stored True
+[2024-02-13 11:48:01Z INFO CredentialManager] GetCredentialProvider
+[2024-02-13 11:48:01Z INFO CredentialManager] Creating type OAuth
+[2024-02-13 11:48:01Z INFO CredentialManager] Creating credential type: OAuth
+[2024-02-13 11:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\bin'
+[2024-02-13 11:48:01Z INFO HostContext] Well known directory 'Root': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner'
+[2024-02-13 11:48:01Z INFO HostContext] Well known config file 'RSACredentials': 'C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_rsaparams'
+[2024-02-13 11:48:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_rsaparams
+[2024-02-13 11:48:01Z INFO MessageListener] Attempt to create session.
+[2024-02-13 11:48:01Z INFO MessageListener] Connecting to the Runner Server...
+[2024-02-13 11:48:01Z INFO RunnerServer] EstablishVssConnection
+[2024-02-13 11:48:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-02-13 11:48:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-13 11:48:01Z INFO RunnerServer] EstablishVssConnection
+[2024-02-13 11:48:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-13 11:48:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-13 11:48:01Z INFO RunnerServer] EstablishVssConnection
+[2024-02-13 11:48:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-02-13 11:48:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-02-13 11:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-13 11:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-13 11:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-02-13 11:48:02Z INFO MessageListener] VssConnection created
+[2024-02-13 11:48:02Z INFO Terminal] WRITE LINE: 
+[2024-02-13 11:48:02Z INFO Terminal] WRITE LINE: 
+[2024-02-13 11:48:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_rsaparams
+[2024-02-13 11:48:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\pk\htdocs\testgit\ftp\ftpconn\actions-runner\.credentials_rsaparams
+[2024-02-13 11:48:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-02-13 11:48:03Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus10.actions.githubusercontent.com/9V5HVtrmX8Xo2LNSco3DkkHQoh65qF8qvyLIGk7Nd2UugpD1fN/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2024-02-13 11:48:03Z ERR  MessageListener] Catch exception during create session.
+[2024-02-13 11:48:03Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-FUGQNF4 already has an active session for owner DESKTOP-FUGQNF4.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2024-02-13 11:48:03Z INFO MessageListener] The session for this runner already exists.
+[2024-02-13 11:48:03Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2024-02-13 11:48:03Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2024-02-13 11:48:03Z ERR  Terminal] WRITE ERROR: 2024-02-13 11:48:03Z: Runner connect error: The actions runner DESKTOP-FUGQNF4 already has an active session for owner DESKTOP-FUGQNF4.. Retrying until reconnected.
+[2024-02-13 11:48:03Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2024-02-13 11:48:10Z INFO Terminal] WRITE LINE: Exiting...
+[2024-02-13 11:48:10Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-02-13 11:48:10Z INFO ConfigurationStore] IsServiceConfigured: True
+[2024-02-13 11:48:10Z INFO Runner] Received Ctrl-C signal, stop Runner.Listener and Runner.Worker.
+[2024-02-13 11:48:10Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2024-02-13 11:48:10Z INFO Listener] Runner execution been cancelled.

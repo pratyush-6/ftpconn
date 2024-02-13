@@ -1,21 +1,27 @@
-name: Deploy website on push
+name: 🚀 Deploy website on push
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   web-deploy:
-    name: Deploy
-    runs-on: windows-latest
+    name: 🎉 Deploy
+    runs-on:  
+            - self-hosted
+            - label-1
     steps:
-      - name: Get latest code
-        uses: appleboy/ssh-action@master
-        with:
-          host: thewall.host4india.in
-          username: ${{ secrets.ftp_username }}
-          password: ${{ secrets.ftp_password }}
-          script: |
-            cd public_html/testing
-            git pull origin main
-            git status
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+
+    - name: 🚀 Deploy using Git and FTP
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: thewall.host4india.in
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        script: |
+          cd public_html/testing
+          git pull origin main
+          git status
