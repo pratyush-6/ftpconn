@@ -16,6 +16,6 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           script: |
-            cd public_html
+            cd public_html/testing
             git pull origin main
             git status
